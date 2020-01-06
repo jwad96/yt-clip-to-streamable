@@ -5,7 +5,7 @@ Transfer YouTube video snippets to streamable
 Takes YouTube video link + time range and generates streamable link for that clip.
 
 ## How to use
-1) Substitute {your email} and {your password} for your streamable email and password
+1) Substitute {your email} and {your password} for your streamable email and password on line 73
 2) Run yt-clip-to-streamable.py
 3) Enter YouTube URL when prompted
 4) Enter start time (in seconds or HH:MM:SS). Default is start of video
