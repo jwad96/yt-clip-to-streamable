@@ -13,7 +13,7 @@ Takes YouTube video link + time range and generates streamable link for that cli
 6) After running, streamable link will be printed
 
 ### Dependencies
-* Python 3.x
+* Python 3.6+
 * requests
 * streamable account
 * ffmpeg
