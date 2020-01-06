@@ -1,7 +1,6 @@
 from json import loads
 import requests
 import base64
-import sys
 import os
 
 
